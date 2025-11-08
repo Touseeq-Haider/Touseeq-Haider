@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi 👋!  Am Touseeq</p>
+<h3 align="center">Hi 👋!  Am Touseeq</h3>
 
 ###
 
