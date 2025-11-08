@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on School Management System<br>👯 I’m looking to collaborate on Open Source Projects and manage AI <br>🤝 I’m looking for help with new engineers<br>🌱 I’m currently learning with phyton and laravel <br>💬 Deep knowledge of php javascript  and frontend  framworks <br>⚡ join me 
+# 💫 Hii Am Touseeq :
+🔭 Building a School Management System | 👯 Open to Open-Source & AI projects | 🌱 Learning Python & Laravel | 💬 Skilled in PHP, JavaScript & Frontend Frameworks
 
 
 ## 🌐 Socials:
