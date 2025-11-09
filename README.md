@@ -1,5 +1,5 @@
-# 💫 Hii Am Touseeq :
-🔭 Building a School Management System | 👯 Open to Open-Source & AI projects | 🌱 Learning Python & Laravel | 💬 Skilled in PHP, JavaScript & Frontend Frameworks
+#                                    💫 Hii Am Touseeq :
+Dedicated Software Engineer building innovative, efficient, and high-quality digital experiences
 
 
 ## 🌐 Socials:
