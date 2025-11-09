@@ -1,5 +1,9 @@
-#                                    💫 Hii Am Touseeq :
-Dedicated Software Engineer building innovative, efficient, and high-quality digital experiences
+<div align="center">
+
+# 💫 Hii, I'm Touseeq  
+🚀 Dedicated Software Engineer building innovative, efficient, and high-quality digital experiences.
+
+</div>
 
 
 ## 🌐 Socials:
